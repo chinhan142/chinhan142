@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Chi Nhan or Cheese
 
-<!--
-**chinhan142/chinhan142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student @ FPT University  
+🚀 Fullstack Developer (Frontend + Backend)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me
+- Core Developer @ Google Developer Group on Campus (FPT)
+- Active Member @ F-Code Club
+- Passionate about learning and building continuously
+- Interested in Fullstack Development, AI, Cloud and Cybersecurity
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- HTML, CSS, JavaScript
+- React.js
+
+**Backend**
+- Node.js
+- .NET
+
+**Others**
+- Git & GitHub  
+- REST APIs  
+- Data Structures & Algorithms  
+
+---
+
+## 🎯 What I Bring
+- Strong problem-solving mindset  
+- Teamwork experience in real development environments  
+- Consistent practice with DSA and coding challenges  
+- Fast learner, adaptable, and proactive  
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/chinhan142
+- Email: buiphamchinhan@gmail.com
+
+---
+
+## 💡 Quick Summary
+> Fullstack developer with team experience (GDG + F-Code), strong learning mindset, and consistent growth.
