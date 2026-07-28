@@ -13,8 +13,8 @@
 ---
 
 ## 🛠 Tech
-**FE:** HTML, CSS, JS, React  
-**BE:** Node.js, .NET  
+**FE:** HTML, CSS, JS, React.js
+**BE:** Node.js, Nest.js, Next.js, .NET, Java Spring 
 **Other:** Git, REST API, DSA  
 
 ---
